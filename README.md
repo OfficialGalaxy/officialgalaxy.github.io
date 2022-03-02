@@ -127,7 +127,7 @@ OfficialGalaxy Add files via upload
                           <div>
 
                                 <h2 class="mb-4 text-white" data-aos="fade-up" data-aos-delay="500">Announcements</h2>
-                                 <h6>This website is free on promotion, to promote your gc's feel free to message me.</h6>
+                                 <p data-aos="fade-up" data-aos-delay="800">This website is free on promotion, to promote your gc's feel free to message me.</p>
                                  <a class="a" href="https://GEMLalixto"><i class="fa fa-telegram"></i> Telegram</a>
                                  <a class="a" href="#Contacts"><i class="fa fa-google"></i> Gmail</a>
 
