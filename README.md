@@ -104,7 +104,7 @@
 
                     <p data-aos="fade-up" data-aos-delay="200">Galaxy wants to invite you.</p>
                          
-                    <a href="https://GALAXYPH" class="btn custom-btn bg-color mt-3" data-aos="fade-up" data-aos-delay="300" data-toggle="modal" data-target="#membershipForm">                         <i class="fa fa-telegram"/>  Become a member</a>
+                    <a href="https://GALAXYPH" class="btn custom-btn bg-color mt-3" data-aos="fade-up" data-aos-delay="300" data-toggle="modal" data-target="#membershipForm">                         <i class="fa fa-telegram"></i>  Become a member</a>
                 </div>
 
                 <div class="mr-lg-auto mt-3 col-lg-4 col-md-6 col-12">
