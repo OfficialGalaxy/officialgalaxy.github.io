@@ -10,11 +10,11 @@
      <meta name="keywords" content="">
      <meta name="author" content="">
      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-     <link rel="stylesheet" href="/font-awesome.min.css">
+     <link rel="stylesheet" href="font-awesome.min.css">
 
-     <link rel="stylesheet" href="/bootstrap.min.css">
-     <link rel="stylesheet" href="/glxy.css">
-     <link rel="stylesheet" href="/aos.css">
+     <link rel="stylesheet" href="bootstrap.min.css">
+     <link rel="stylesheet" href="glxy.css">
+     <link rel="stylesheet" href="aos.css">
      
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -22,7 +22,7 @@
      <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
      <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Comfortaa&family=IBM+Plex+Mono&family=Oxygen+Mono&family=Poppins&family=Varela+Round&display=swap" rel="stylesheet">
      <!-- MAIN CSS -->
-     <link rel="stylesheet" href="/glxy.css">
+     <link rel="stylesheet" href="glxy.css">
 
     <nav class="navbar navbar-expand-lg fixed-top">
         <div class="container">
@@ -291,11 +291,11 @@
 
      
      <!-- SCRIPTS -->
-     <script src="/jquery.min.js"></script>
-     <script src="/bootstrap.min.js"></script>
-     <script src="/aos.js"></script>
-     <script src="/smoothscroll.js"></script>
-     <script src="/custom.js"></script>
+     <script src="jquery.min.js"></script>
+     <script src="bootstrap.min.js"></script>
+     <script src="aos.js"></script>
+     <script src="smoothscroll.js"></script>
+     <script src="custom.js"></script>
 
 </body>
         
